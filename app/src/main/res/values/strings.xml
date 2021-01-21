@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignInUI</string>
+    <string name="sign_in_to_sing">Sign in to sing</string>
+    <string name="words_make_you_think_music_makes_you_feel">Words make you think\n Music makes you feel</string>
+    <string name="email">Email</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">********</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now</string>
+</resources>
